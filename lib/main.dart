@@ -97,7 +97,7 @@ class _FuriganaPageState extends State<FuriganaPage> {
                   showFurigana
                       ? Icons.visibility
                       : Icons.visibility_off,
-                  color: Colors.blue,
+                  color: Colors.grey,
                 ),
                 value: showFurigana,
                 onChanged: (value) {
@@ -132,7 +132,7 @@ class _FuriganaPageState extends State<FuriganaPage> {
                                 ),
                                 rubyStyle: const TextStyle(
                                   fontSize: 12,
-                                  color: Colors.blue,
+                                  color: Colors.grey,
                                 ),
                               )
                             : Text(
