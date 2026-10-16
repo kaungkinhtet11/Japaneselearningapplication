@@ -132,7 +132,7 @@ class _FuriganaPageState extends State<FuriganaPage> {
                                 ),
                                 rubyStyle: const TextStyle(
                                   fontSize: 12,
-                                  color: Colors.green,
+                                  color: Colors.red,
                                 ),
                               )
                             : Text(
