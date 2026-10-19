@@ -33,7 +33,7 @@ class FuriganaPage extends StatefulWidget {
 }
 
 class _FuriganaPageState extends State<FuriganaPage> {
-  final String japanese = '私は学校へ行きます。';
+  final String japanese = '毎日日本語を勉強しています。';
 
   List<TransliterationData> transliterationWords = [];
 
