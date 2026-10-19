@@ -91,7 +91,7 @@ class _SentenceCardState extends State<SentenceCard> {
                     ),
                     rubyStyle: const TextStyle(
                       fontSize: 12,
-                      color: Colors.blue,
+                      color: Colors.yellow,
                     ),
                   );
                 }
